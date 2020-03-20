@@ -1,0 +1,167 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../git/Insuflatore/motor_encoder_brd/allegro/MOTOR_ENCODER_BRD.brd       |
+|                                                    Tue Mar 17 22:16:24 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 BR1.1          C1.1           C2.1           
+                                 C3.N           J1.1           J1.14          
+                                 U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A            pins ADDED TO this new net
+                                 J1.12          U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  B            pins ADDED TO this new net
+                                 J1.11          U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CLOCK        pins ADDED TO this new net
+                                 J1.9           U1.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA         pins ADDED TO this new net
+                                 J1.8           U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MAG          pins ADDED TO this new net
+                                 J1.13          U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01073       pins ADDED TO this new net
+                                 C1.2           U1.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03135       pins ADDED TO this new net
+                                 BR2.2          U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03141       pins ADDED TO this new net
+                                 BR3.2          U1.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PSM          pins ADDED TO this new net
+                                 BR1.2          J1.3           R3.1           
+                                 U1.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  REFN         pins ADDED TO this new net
+                                 J1.15          U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  REFP         pins ADDED TO this new net
+                                 J1.16          U1.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RI           pins ADDED TO this new net
+                                 J1.10          U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCL          pins ADDED TO this new net
+                                 J1.19          R1.1           U1.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../git/Insuflatore/motor_encoder_brd/allegro/MOTOR_ENCODER_BRD.brd       |
+|                                                    Tue Mar 17 22:16:24 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SDA          pins ADDED TO this new net
+                                 J1.20          R2.1           U1.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TD/PCOS      pins ADDED TO this new net
+                                 J1.4           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  U/NSIN       pins ADDED TO this new net
+                                 J1.5           U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V/PSIN       pins ADDED TO this new net
+                                 J1.6           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VEXT         pins ADDED TO this new net
+                                 BR2.1          BR3.1          C2.2           
+                                 C3.P           L1.1           R1.2           
+                                 R2.2           R3.2           U1.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIN          pins ADDED TO this new net
+                                 J1.2           L1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VOUT/TOUT    pins ADDED TO this new net
+                                 J1.17          U1.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  W/NCOS       pins ADDED TO this new net
+                                 J1.7           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ZERO         pins ADDED TO this new net
+                                 J1.18          U1.22          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../git/Insuflatore/motor_encoder_brd/allegro/MOTOR_ENCODER_BRD.brd       |
+|                                                    Tue Mar 17 22:16:24 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 06035C104K4T2A
+ AM4096
+ BLM18PG300SN1D
+ CIRCUIT BREAKER_0_SMR0402_CIRCU
+ CRCW060351K0FKEA
+ GRM188R6YA106MA73D
+ HEADER 10X2_HEADER_2X10_2MM_TH_
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../git/Insuflatore/motor_encoder_brd/allegro/MOTOR_ENCODER_BRD.brd       |
+|                                                    Tue Mar 17 22:16:24 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BR1                 CIRCUIT BREAKER_0_SMR0402_CIRCU 
+ BR2                 CIRCUIT BREAKER_0_SMR0402_CIRCU 
+ BR3                 CIRCUIT BREAKER_0_SMR0402_CIRCU 
+ C1                  06035C104K4T2A        
+ C2                  06035C104K4T2A        
+ C3                  GRM188R6YA106MA73D    
+ J1                  HEADER 10X2_HEADER_2X10_2MM_TH_ 
+ L1                  BLM18PG300SN1D        
+ R1                  CRCW060351K0FKEA      
+ R2                  CRCW060351K0FKEA      
+ R3                  CRCW060351K0FKEA      
+ U1                  AM4096                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../git/Insuflatore/motor_encoder_brd/allegro/MOTOR_ENCODER_BRD.brd       |
+|                                                    Tue Mar 17 22:16:24 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BR1.2                          PRIM_FILE      .\pstchip.dat
+ BR2.2                          PRIM_FILE      .\pstchip.dat
+ BR3.2                          PRIM_FILE      .\pstchip.dat
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.N                           PRIM_FILE      .\pstchip.dat
+ J1.9                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ U1.22                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      62                                        |
+|       Comp definitions added:       7                                        |
+|       Components added      :      12                                        |
+|       Slot property added   :      12                                        |
+|                                                                              |
+|   Total ECO changes reported:      93                                        |
+|------------------------------------------------------------------------------|
