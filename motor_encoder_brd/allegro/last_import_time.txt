@@ -1,4 +1,0 @@
-2020-03-20T18:30:48 ===> "c:/users/carlo/documents/git/insuflatore/motor_encoder_brd/allegro/pstchip.dat"
-2020-03-20T18:30:48 ===> "c:/users/carlo/documents/git/insuflatore/motor_encoder_brd/allegro/pstxnet.dat"
-2020-03-20T18:30:48 ===> "c:/users/carlo/documents/git/insuflatore/motor_encoder_brd/allegro/pstxprt.dat"
-2020-03-20T18:30:48 ===> "c:/users/carlo/documents/git/insuflatore/motor_encoder_brd/allegro/pstdmlmodels.dat"
